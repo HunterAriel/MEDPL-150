@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Homework 9– Filler</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+
+  <h1>Homework 9 – Filler</h1>
+ <p>aaaaaaa</p>
+
+  <h2>Reflection</h2>
+  <p>filler 1</p>
+  <p>filler 2</p>
+
+  <br>
+  <a href="index.html">Go to homepage</a> |
+  <a href="homework10.html">Go to Homework 10</a>
+
+</body>
+</html>
