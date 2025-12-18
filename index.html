@@ -9,7 +9,7 @@
       position: fixed;
       width: 3px;
       height: 3px;
-      background: blue;
+      background: lightskyblue;
       border-radius: 50%;
       pointer-events: none;
       animation: fadeOut 0.8s linear forwards;
@@ -20,6 +20,17 @@
       0% { opacity: 1; transform: scale(1); }
       100% { opacity: 0; transform: scale(2); }
     }
+
+    a {
+  color: lightskyblue;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: lightskyblue;
+  text-shadow: 0 0 6px rgba(143, 211, 255, 0.8);
+}
   </style>
 </head>
     
@@ -38,6 +49,13 @@ My art is provides a touch of magic for the ordinary. By me altering reality thr
 
 <h2>Homework</h2>
 <ul>
+  <div class="stars">✦ ✧ ✦</div>
+  .stars {
+  text-align: center;
+  color: #8fd3ff;
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
     <li><a href="readings.html">Readings</a></li>
   <li><a href="homework2/homework2.html">Homework 2</a></li>
   <li><a href="homework3.html">Homework 3</a></li>
